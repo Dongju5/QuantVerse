@@ -1,0 +1,43 @@
+# Column
+BAS_DD : 기준일자
+IDX_CLSS : 계열구분
+IDX_NM : 지수명
+CLSPRC_IDX : 종가
+CMPPREVDD_IDX : 대비
+FLUC_RT : 등락률
+OPNPRC_IDX : 시가
+HGPRC_IDX : 고가
+LWPRC_IDX : 저가
+ACC_TRDVOL : 거래량
+ACC_TRDVAL : 거래대금
+MKTCAP : 상장시가총액
+
+# 지수명
+KRX 300
+KTOP 30
+KRX 100
+KRX 자동차
+KRX 반도체
+KRX 헬스케어
+KRX 은행
+KRX 에너지화학
+KRX 철강
+KRX 방송통신
+KRX 건설
+KRX 증권
+KRX 기계장비
+KRX 보험
+KRX 운송
+KRX 경기소비재
+KRX 필수소비재
+KRX 미디어&엔터테인먼트
+KRX 정보기술
+KRX 유틸리티
+KRX 300 정보기술
+KRX 300 금융
+KRX 300 자유소비재
+KRX 300 산업재
+KRX 300 헬스케어
+KRX 300 커뮤니케이션서비스
+KRX 300 소재
+KRX 300 필수소비재
